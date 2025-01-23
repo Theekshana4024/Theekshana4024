@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJS,NodeJS,MongoDB,OracleDB**
 
-- 🤝 I’m looking for help with **I am looking for a internship on software engineering field**
+- 🤝I am looking for a internship on software engineering field**
 
 - 💬 Ask me about **HTML,CSS,Java,Mysql,Ui/Ux**
 
